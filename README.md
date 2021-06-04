@@ -4,6 +4,6 @@
 
 <p align="center">
   <a target="_blank" href="https://neodigm.github.io/ek_after_effects_video/ek_basketball.mp4">
-  <img src="https://neodigm.github.io/ek_after_effects_video/ek_after_fx_basketball_lego.webp" title="Fantastic Graphic Motion and Video FX Design">
+  <img src="https://neodigm.github.io/ek_after_effects_video/ek_after_fx_basketball_lego.webp" title="Fantastic Graphic Motion and Video FX Design✨">
   </a>
 </p>
