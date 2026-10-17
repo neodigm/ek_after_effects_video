@@ -137,7 +137,7 @@
     "ws": "^7.5.10",
     "xml2js": "^0.4.23",
     "yargs": "^16.0.3",
-    "yeoman-generator": "^8.2.2",
+    "yeoman-generator": "^10.0.1",
     "zone.js": "^0.11.1"
   }
 }
